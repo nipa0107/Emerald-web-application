@@ -65,4 +65,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
 # Emerald-web-application-
->>>>>>> 3e27d88f8cde996f9c4bb7e42aa731032482dc99
+นางสาววิชญาดา ศรีนาม   รหัสนักศึกษา 643020413-3  
+นางสาวศศิธร สอนดอก     รหัสนักศึกษา 643020414-1  
+นางสาวนิภา สินไธสง         รหัสนักศึกษา 643021109-1   
+นางสาวภัทรศยา ศรีสง่า    รหัสนักศึกษา 643021115-6  
+นางสาวมณิภา เตโช          รหัสนักศึกษา 643021117-2   
